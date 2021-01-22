@@ -11,4 +11,6 @@ Me gusta escuchar música
 - Ver películas
 
 ## Education
-
+- ICA
+- ANGLO
+- IEST
