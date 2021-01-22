@@ -14,3 +14,8 @@ Me gusta escuchar música
 - ANGLO
 - IEST
 
+Hola
+Adios
+- ANGLO
+Pero
+Nada
