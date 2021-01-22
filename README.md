@@ -8,9 +8,9 @@ Me gusta escuchar música
 - Dormir
 - Leer
 - Programar
-- Ver películas
 
-## Education
-- ICA
+Hola
+Adios
 - ANGLO
-- IEST
+Pero
+Nada
