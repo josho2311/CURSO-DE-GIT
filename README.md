@@ -13,9 +13,3 @@ Me gusta escuchar música
 ## Education
 - ANGLO
 - IEST
-
-Hola
-Adios
-- ANGLO
-Pero
-Nada
